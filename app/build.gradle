@@ -1,0 +1,107 @@
+apply plugin: 'com.android.application'
+
+// 打包时间
+def releaseTime() {
+    return new Date().format("yyyyMMdd", TimeZone.getTimeZone("GMT+08:00"))
+}
+android {
+    compileSdkVersion 25
+    buildToolsVersion "26.0.1"
+
+    defaultConfig {
+        applicationId "cn.berfy.demo.lucky"
+        minSdkVersion 14
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+    }
+
+    //----------------------签名配置----------------------
+    signingConfigs {
+        debug {
+            //为了方便测试分享或第三方登录  使用正式签名
+            storeFile file('lucky.jks')
+            storePassword 'cplasf2011'
+            keyAlias 'Berfy'
+            keyPassword 'cplasf2011'
+        }
+        release {
+            storeFile file('lucky.jks')
+            storePassword 'cplasf2011'
+            keyAlias 'Berfy'
+            keyPassword 'cplasf2011'
+        }
+    }
+
+    buildTypes {
+        debug {
+//            versionNameSuffix "-debug" //versionName加上debug
+//            minifyEnabled false
+//            shrinkResources true
+        }
+        release {
+//            minifyEnabled true
+//            shrinkResources true
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            zipAlignEnabled true
+            signingConfig signingConfigs.release
+        }
+    }
+
+    //----------------------不打包进版本的文件---------------------
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/LICENSE.txt'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/DEPENDENCIES'
+        exclude 'META-INF/notice.txt'
+        exclude 'META-INF/license.txt'
+        exclude 'META-INF/dependencies.txt'
+        exclude 'META-INF/LGPL2.1'
+        exclude 'LICENSE.txt'
+    }
+
+    //----------------------lint检查----------------------
+    lintOptions {
+        quiet true
+        abortOnError false
+        ignoreWarnings true
+        disable 'InvalidPackage'            //Some libraries have issues with this.
+        disable 'OldTargetApi'
+        //Lint gives this warning but SDK 20 would be Android L Beta.
+        disable 'IconDensities'             //For testing purpose. This is safe to remove.
+        disable 'IconMissingDensityFolder'  //For testing purpose. This is safe to remove.
+    }
+
+// apk输出重命名
+    applicationVariants.all { variant ->
+        variant.outputs.each { output ->
+
+            // oldName
+            def outputFile = output.outputFile
+
+            if (outputFile != null && outputFile.name.endsWith('.apk')) {
+
+                // 获取中英文版本
+                def newName;
+                def version = "v${defaultConfig.versionName}"
+                def time = "${releaseTime()}"
+
+                // release版本
+                if (variant.buildType.name.equals('release')) {
+                    newName = 'Lucky_' + version + '_release_' + time + ".apk"
+                } else {
+                    newName = 'Lucky_' + version + '_debug_' + time + ".apk"
+                }
+                output.outputFile = new File(outputFile.parent, newName)
+            }
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:25.3.1'
+    compile project(':framework')
+}

@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\arrow_red.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\arrow_red.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\start.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\start.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\iphone.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\iphone.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bg.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\f040.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\f040.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\meizi.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\meizi.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\arrow_green.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\arrow_green.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\ipad.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\ipad.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\arrow.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\f015.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\f015.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\danfan.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\danfan.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\stop.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi\\bg2.png",
+        "source": "D:\\android\\git\\LuckyDemo\\app\\src\\main\\res\\drawable-hdpi\\bg2.png"
+    }
+]

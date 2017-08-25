@@ -1,0 +1,7 @@
+#Fri Aug 25 16:31:44 CST 2017
+base.0=D\:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6bb95e1b7cde73f4ae4f2fbb592cf388e40f5aca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3326a459664a0614e86240f452a882c2467a27fe\\classes.dex
+base.1=D\:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3326a459664a0614e86240f452a882c2467a27fe
+file.0=D\:\\android\\git\\LuckyDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6bb95e1b7cde73f4ae4f2fbb592cf388e40f5aca\\classes.dex

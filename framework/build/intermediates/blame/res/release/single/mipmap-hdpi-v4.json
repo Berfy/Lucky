@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\framework\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\back.png",
+        "source": "D:\\android\\git\\LuckyDemo\\framework\\src\\main\\res\\mipmap-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\android\\git\\LuckyDemo\\framework\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\git\\LuckyDemo\\framework\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

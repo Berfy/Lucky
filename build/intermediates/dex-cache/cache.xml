@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\library-2.4.0_99e3869b3a771ccd69005ac41dd6ce3032421593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_e4d393eb2378f89770871b4244a2f238f0a8ddde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\b2f026bf95be14d5e3be269075b37adc714158f6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_43bbb5a881252289bbb46e508e5242d3d5d83198.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\LuckyDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53979d78231b843746748e84cd2a567b1965faff">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6bb95e1b7cde73f4ae4f2fbb592cf388e40f5aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\git\LuckyDemo\framework\build\intermediates\bundles\default\libs\zxing.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\zxing_958bcb0108140b6b1081fec5cf5db63e66eb2a44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\rxjava-1.1.6_4d929f9bf32e7b0cafe081071b480368b27a8fb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\91f08bf03fc9d9947da2120f2c0ed6018a97a6ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_d47f173758b68efd705977ae856bb4a656ba51f5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\LuckyDemo\framework\build\intermediates\bundles\default\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2d5ab89db945b0470f55ba66bd5d27a838a6c44f">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\zxing_958bcb0108140b6b1081fec5cf5db63e66eb2a44\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\5ea88e6c121bd45cf9062c46c0bdda1be6da4109\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38115c69562d4087564afb177e2a971aa95a1a46">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_2644b4d95a0c55bb6bc6f5c1f3b25e691d83a8b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\gson-2.3.1_7a4ca55bbc664c4d4a7279457df20fae17c1a312.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.google.auto.service\auto-service\1.0-rc2\51033a5b8fcf7039159e35b6878f106ccd5fb35f\auto-service-1.0-rc2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51033a5b8fcf7039159e35b6878f106ccd5fb35f">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\auto-service-1.0-rc2_de9a82e874819d00d5af9ddb0542cb7c2d81f87e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\git\LuckyDemo\framework\build\intermediates\bundles\default\libs\universal-image-loader-1.9.0-with-sources.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e521085bc0240ec4a008564e836b4adcf0bfe06">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.0-with-sources_82b9cd3d285e432b6b3e084d1711ef34d8161555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\4706a7e38bd0648e2ce680bf41ab16db8b829e8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_e28c4040a343b81ed85e087b353123a9eaa1bcdf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\9b274c83f0609fd336fc9306a0997bd652cd38b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_9dadfe9b29f7b2e7a929a21495bf0faac6ac82b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\9988da7bcc9cef0ccb99fa4d617652af1f7501b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_604b14a74c97bad9c16338429fb28700ce7779cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\LuckyDemo\framework\build\intermediates\bundles\default\libs\universal-image-loader-1.9.0-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3e521085bc0240ec4a008564e836b4adcf0bfe06">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\8\universal-image-loader-1.9.0-with-sources_82b9cd3d285e432b6b3e084d1711ef34d8161555\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\47f355111694a388e113d5437a1bcf193bbcbea3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_3d8a19e41b8ed4975f48e9ac5696f0e187823a4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-compiler\8.4.0\22f40cd3f01849c6deeab0a755d2082b2624581\butterknife-compiler-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="022f40cd3f01849c6deeab0a755d2082b2624581">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\butterknife-compiler-8.4.0_f2c9df92225ef3a3fae7e23d4a74dd4dec47891d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android\git\LuckyDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3326a459664a0614e86240f452a882c2467a27fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\studio\gradle\m2repository\com\google\guava\guava\18.0\guava-18.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\guava-18.0_788d349c1dc7cfe7f0ae980f3b155613b17d6c2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.7.0\4fdcf1fc27c1a8f55d1109df986c923152f07759\javapoet-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4fdcf1fc27c1a8f55d1109df986c923152f07759">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\javapoet-1.7.0_31c23b102d16269e50a0d4341d7bc13883a78817.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\13fdb7bb4f26d5313aa7e05dc4d46552256b27d1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_a9a2345e0e62b68c4d343cea872e7d41185af968.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\03cf5fbd30a6cd795b488281952a7c92809d0b59\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_70a19304682594809baaafd31c046bcc2c535bc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\68df3a06aea0694fe40ddda8d34396d265cf3fd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_23c4092f262a78e927d0ce9c89884fe223359b6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.google.auto\auto-common\0.6\cf7212b0f8bfef12657b942df8f4f2cf032d3f41\auto-common-0.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cf7212b0f8bfef12657b942df8f4f2cf032d3f41">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\auto-common-0.6_e1edfcbbe9b3425fb55d27483765af0388159154.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\e19033847441c9ab9a2060be4519dc9b746ee313\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_0d9d6a3dc1a8e93d1ac5c7a350434dc9aee70994.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\37a9dae47f0ea4f08275ab6dbdda54bff9a81cd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_1a137c0cd249346bd7566d77680f6771a18cf47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\butterknife-annotations-8.4.0_7f537aa899344f464747f4dbedd2dcd6eb8643d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\76f799f234ff438db0c440488ba43431012abf00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_4e953c920f5f9f845f69c8a12b0b6c56a67b94d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\f7b3209e29e8b239a767ceeb979fde5faa9ecd16\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_6f755df6e280a2746c85b0345493b9d670cccee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\d375295ed38609af90f7714deda2a6f882e08e12\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_f53486fafff428b9c0541256f642b7682c747590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\android\git\LuckyDemo\framework\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e8cc1b3da8f1ff4740e4f09193b53b194337b35">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_68080386cf027357b8714fec5e51cc4e4dca6a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Berfy\.android\build-cache\8867ceebdf91c22884fd91e8fe8852736b1c78d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\android\git\LuckyDemo\app\build\intermediates\pre-dexed\release\classes_201c05d19a14a0c49490e7a555c446cf1a6e41e1.jar" />
+    </item>
+
+</items>
